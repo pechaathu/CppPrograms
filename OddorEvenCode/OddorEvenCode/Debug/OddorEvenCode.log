@@ -1,0 +1,3 @@
+﻿  OddorEvenCode.cpp
+D:\My folder\My works\My C++ works\OddorEvenCode\OddorEvenCode\OddorEvenCode.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OddorEvenCode.vcxproj -> D:\My folder\My works\My C++ works\OddorEvenCode\OddorEvenCode\Debug\OddorEvenCode.exe
