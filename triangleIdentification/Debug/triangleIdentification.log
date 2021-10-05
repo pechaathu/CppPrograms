@@ -1,0 +1,3 @@
+﻿  triangleIdentification.cpp
+D:\My folder\My works\My C++ works\triangleIdentification\triangleIdentification.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  triangleIdentification.vcxproj -> D:\My folder\My works\My C++ works\triangleIdentification\Debug\triangleIdentification.exe
